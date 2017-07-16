@@ -1,0 +1,11 @@
+{
+    "require": {
+        "silex/silex": "~2.0",
+        "symfony/twig-bridge": "^3.3",
+        "saxulum/config-service-provider": "^2.0",
+        "symfony/yaml": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {"ProjectMatch\\": "src/"}
+    }
+}
